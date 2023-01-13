@@ -5,11 +5,14 @@
 <br>This the video of the whole project - https://youtu.be/TM9ID6TAKO4
 </p>
 <h2 id="installation">Installation</h2>
+
+<p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/rpi.jpeg" alt="enter image description here"></p>
 <blockquote>
 <p>OpenCv</p>
 </blockquote>
 <ul>
 <li>Follow this tutorial and install open cv on Raspberry pi - <a href="https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/">Link</a></li>
+ <p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/attendico.png" alt="enter image description here"></p>
 </ul>
 <blockquote>
 <p>Nodejs and React.js</p>
@@ -36,6 +39,9 @@
 </ol>
 <blockquote>
 <p>Admin Dashboard Web-app</p>
+  <p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/dash_board1.png" alt="enter image description here"></p>
+  <p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/dashboard2.png" alt="enter image description here"></p>
+  
 </blockquote>
 <ol>
 <li>Guide to the <code>aWayIn dashboard folder</code></li>
