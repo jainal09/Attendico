@@ -28,6 +28,7 @@
 <blockquote>
 <p>Client Web - App</p>
 </blockquote>
+<p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/register.png" alt="enter image description here"></p>
 <ol>
 <li>Guide to the <code>aWayIn-register folder</code></li>
 <li><code>npm i</code></li>
