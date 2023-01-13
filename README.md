@@ -1,5 +1,5 @@
 <h1 id="aWayIn">Attendico</h1>
-<p><img src="https://github.com/jainal09/Attendico/raw/master/attendico.png" alt="enter image description here"></p>
+<p align="centre"><img src="https://github.com/jainal09/Attendico/raw/master/attendico.png" alt="enter image description here"></p>
 <p><em>A Smart and innovative way for managing attendance.</em><br>
 <img src="https://docs.microsoft.com/en-us/azure/cognitive-services/face/images/face.detection.jpg" alt="enter image description here">
 <br>This the video of the whole project - https://youtu.be/TM9ID6TAKO4
